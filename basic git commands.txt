@@ -1,0 +1,10 @@
+git init
+git status
+git add test file.txt
+git add "test file.txt"
+git commit
+git commit -m "first commit"
+git status
+git config --global user.username shubhampark07
+git remote add origin https://github.com/shubhampark07/test_repo.git
+git push origin master
